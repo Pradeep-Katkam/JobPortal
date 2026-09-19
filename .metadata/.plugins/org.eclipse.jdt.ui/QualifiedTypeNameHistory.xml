@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="com.alpha.JobPortal.entity.Education"/>
+    <fullyQualifiedTypeName name="com.alpha.JobPortal.entity.Experience"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.Collate"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.CascadeType"/>
+    <fullyQualifiedTypeName name="com.alpha.JobPortal.entity.Job"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.Cascade"/>
+    <fullyQualifiedTypeName name="com.alpha.JobPortal.entity.Skill"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Appendable"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.OneToMany"/>
+    <fullyQualifiedTypeName name="com.alpha.JobPortal.entity.Candidate"/>
+    <fullyQualifiedTypeName name="com.alpha.JobPortal.entity.Application"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.ManyToOne"/>
+</qualifiedTypeNameHistroy>

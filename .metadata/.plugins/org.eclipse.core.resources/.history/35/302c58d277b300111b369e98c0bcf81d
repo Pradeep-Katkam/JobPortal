@@ -1,0 +1,10 @@
+package com.alpha.JobPortal.entity;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Education {
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	public int id;
+}

@@ -1,0 +1,25 @@
+package com.alpha.JobPortal.entity;
+
+import java.util.List;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
+
+@Entity
+public class Experience {
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private int id;
+	private int NoOfYear;
+	private String role;
+	private String ComapanyName;
+	private String StartDate;
+	private String EndDate;
+	private String working;
+	private String description;
+	@OneToMany(cascade = )
+	private List<Skill> skills;
+}

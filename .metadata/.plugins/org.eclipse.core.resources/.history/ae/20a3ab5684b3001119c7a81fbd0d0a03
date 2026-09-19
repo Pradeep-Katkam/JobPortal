@@ -1,0 +1,30 @@
+package com.alpha.JobPortal.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+
+@Entity
+public class Application {
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private int id;
+	private Candidate candidate;
+	private String startDate;
+	private String lastDate;
+	private String job;
+	public Application() {
+		super();
+	}
+	public Application(Candidate candidate, String startDate, String lastDate, String job) {
+		super();
+		this.candidate = candidate;
+		this.startDate = startDate;
+		this.lastDate = lastDate;
+		this.job = job;
+	}
+	
+	
+	
+}
