@@ -132,6 +132,8 @@ public class Candidate {
 	public void setApplication(List<Application> application) {
 		this.application = application;
 	}
+
+
 	
 	
 }

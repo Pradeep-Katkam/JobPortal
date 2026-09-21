@@ -21,7 +21,7 @@ public class Company {
 	@Column(unique = true)
 	private String email;
 	@Column(unique = true)
-	private String phone;
+	private long phone;
 	private String address;
 	private String type;
 	private int NoOfEmployee;
@@ -30,7 +30,7 @@ public class Company {
 	public Company() {
 		super();
 	}
-	public Company(String name, String email, String phone, String address, String type, int noOfEmployee,
+	public Company(String name, String email, long phone, String address, String type, int noOfEmployee,
 			List<Job> job) {
 		super();
 		this.name = name;
@@ -53,10 +53,10 @@ public class Company {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-	public String getPhone() {
+	public long getPhone() {
 		return phone;
 	}
-	public void setPhone(String phone) {
+	public void setPhone(long phone) {
 		this.phone = phone;
 	}
 	public String getAddress() {
