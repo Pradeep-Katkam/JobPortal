@@ -1,0 +1,6 @@
+package com.alpha.JobPortal.dto;
+
+public class CandidateRegisterDto {
+	private String name;
+	private mail
+}

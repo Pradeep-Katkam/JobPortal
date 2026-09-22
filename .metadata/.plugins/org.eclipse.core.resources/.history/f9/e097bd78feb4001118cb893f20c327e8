@@ -1,0 +1,70 @@
+package com.alpha.JobPortal.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.stereotype.Service;
+
+import com.alpha.JobPortal.Repository.CandidateRepository;
+import com.alpha.JobPortal.dto.CandidateRegisterDto;
+import com.alpha.JobPortal.dto.ResponceStruture;
+import com.alpha.JobPortal.entity.Candidate;
+import com.alpha.JobPortal.exception.CandidateAlreadyExistsException;
+import com.alpha.JobPortal.exception.CandidateNotExistsException;
+import com.alpha.JobPortal.exception.CandidateRegistrationFailed;
+import com.alpha.JobPortal.exception.CommonException;
+import com.alpha.springschool.exception.StudentNotFoundException;
+
+@Service
+public class CandiateService {
+	@Autowired
+	private CandidateRepository candRepo;
+
+	public ResponceStruture<Candidate> candidateRegister(CandidateRegisterDto candDto) {
+
+	    // If candidate already exists → throw exception
+	    if (candRepo.findByPhone(candDto.getPhone()).isPresent()) {
+	        throw new CandidateAlreadyExistsException();
+	    }
+
+	    // Candidate does not exist → create new candidate
+	    Candidate c = new Candidate();
+
+	    c.setName(candDto.getName());
+	    c.setEmail(candDto.getMail());
+	    c.setPhone(candDto.getPhone());
+	    c.setAge(candDto.getAge());
+	    c.setGender(candDto.getGender());
+
+	    candRepo.save(c);
+
+	    ResponceStruture<Candidate> respStru =
+	            new ResponceStruture<>();
+
+	    respStru.setStatuCode(HttpStatus.ACCEPTED.value());
+	    respStru.setMessage("Candidate Successfully Registered");
+	    respStru.setData(c);
+
+	    return respStru;
+	}
+
+	public ResponceStruture<String> candidateDelete(int id) {
+		candRepo.deleteById(id);
+		ResponceStruture<String> respStru = new ResponceStruture<String>();
+		respStru.setStatuCode(HttpStatus.OK.value());
+		respStru.setMessage("Candidate Deleted Successfully");
+		respStru.setData("Candidate Deleted Successfully");
+		return respStru;
+	}
+
+	public ResponceStruture<Candidate> candidateFind(int id) {
+		Candidate can=candRepo.findById(id).orElseThrow(()->new CommonException(HttpStatus.NOT_FOUND.value(),"Candidate Not"));
+		ResponceStruture<Candidate> rs = new ResponceStruture<Candidate>();
+		rs.setStatuCode(HttpStatus.FOUND.value());
+		rs.setMessage("Candidate Foound With the ID");
+		rs.setData(can);
+		return rs;
+	}
+
+}

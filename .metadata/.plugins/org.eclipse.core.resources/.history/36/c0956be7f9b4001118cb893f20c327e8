@@ -1,0 +1,38 @@
+package com.alpha.JobPortal.controller;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.alpha.JobPortal.dto.CandidateRegisterDto;
+import com.alpha.JobPortal.dto.ResponceStruture;
+import com.alpha.JobPortal.entity.Candidate;
+import com.alpha.JobPortal.service.CandiateService;
+
+@RestController
+public class CandidateController {
+	@Autowired
+	private CandiateService candidateServie;
+	
+	@PostMapping("/candidate/register")
+	public ResponceStruture<Candidate> candidateRegister(@RequestBody CandidateRegisterDto candDto) {
+		return candidateServie.candidateRegister(candDto);
+	}
+	
+	@DeleteMapping("/candidate/delete/{id}")
+	public ResponceStruture<String> candidateDelete(@PathVariable int id) {
+		return candidateServie.candidateDelete(id);
+	}
+	
+	@GetMapping("/candidate/find/{id}")
+	public ResponceStruture<Candidate> candidateFind(@PathVariable int id) {
+		return candidateServie.candidateFind(id);
+	}
+}

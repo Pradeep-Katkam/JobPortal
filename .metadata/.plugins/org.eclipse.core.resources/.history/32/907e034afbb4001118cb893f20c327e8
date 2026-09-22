@@ -1,0 +1,16 @@
+package com.alpha.JobPortal.exception;
+
+public class CommonException extends RuntimeException{
+	private int statusCode;
+	private String message;
+	public CommonException(int statusCode, String message) {
+		super();
+		this.statusCode = statusCode;
+		this.message = message;
+	}
+	public CommonException() {
+		super();
+	}
+	
+	
+}

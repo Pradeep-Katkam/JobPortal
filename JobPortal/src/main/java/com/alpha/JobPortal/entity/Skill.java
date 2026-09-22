@@ -10,19 +10,24 @@ public class Skill {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int id;
-	private String name;
+	private String skill;
 	public Skill() {
 		super();
 	}
-	public Skill(String name) {
-		super();
-		this.name = name;
+	public Skill(String skill) {
+		this.skill = skill;
 	}
-	public String getName() {
-		return name;
+	public int getId() {
+		return id;
 	}
-	public void setName(String name) {
-		this.name = name;
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getSkill() {
+		return skill;
+	}
+	public void setSkill(String skill) {
+		this.skill = skill;
 	}
 	
 	

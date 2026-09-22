@@ -1,0 +1,10 @@
+package com.alpha.JobPortal.exception;
+
+public class CandidateAlreadyExistsException extends RuntimeException{
+
+	public CandidateRegistrationFailed() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+}

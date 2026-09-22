@@ -1,0 +1,6 @@
+package com.alpha.JobPortal.exception;
+
+public class CommonException extends RuntimeException{
+	private int statusCode;
+	private Sting 
+}

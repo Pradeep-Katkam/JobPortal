@@ -1,0 +1,17 @@
+package com.alpha.JobPortal.dto;
+
+import java.util.List;
+
+import com.alpha.JobPortal.entity.Skill;
+
+public class CreateNewJobDto {
+	private int comid;
+	private String role;
+	private List<Skill> skill;
+	private String jobDesc;
+	private int noOfPostion;
+	private int salary;
+	private int bond;
+	private int experience;
+	
+}

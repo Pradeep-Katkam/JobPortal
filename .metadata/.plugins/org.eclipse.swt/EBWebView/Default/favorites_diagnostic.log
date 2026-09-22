@@ -57,3 +57,571 @@
 2026-09-18 16:18:06.667: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-18 16:18:06.667: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-18 17:38:09.278: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 12:02:07.860: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 12:02:07.860: [INFO] Profiles total count: 1
+2026-09-19 12:02:07.860: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-19 12:02:07.860: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 12:02:07.860: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-19 12:02:07.860: [INFO] OnDoneLoading sync enabled: 0
+2026-09-19 12:02:07.860: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-19 12:02:07.860: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-19 12:02:07.860: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 12:14:27.453: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 12:46:32.424: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 12:46:32.425: [INFO] Profiles total count: 1
+2026-09-19 12:46:32.425: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-19 12:46:32.425: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 12:46:32.425: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-19 12:46:32.425: [INFO] OnDoneLoading sync enabled: 0
+2026-09-19 12:46:32.425: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-19 12:46:32.425: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-19 12:46:32.425: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 13:40:09.810: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 13:40:42.326: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 13:40:42.326: [INFO] Profiles total count: 1
+2026-09-19 13:40:42.326: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-19 13:40:42.326: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 13:40:42.326: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-19 13:40:42.326: [INFO] OnDoneLoading sync enabled: 0
+2026-09-19 13:40:42.326: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-19 13:40:42.326: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-19 13:40:42.326: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 14:04:21.075: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 14:06:31.879: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 14:06:31.879: [INFO] Profiles total count: 1
+2026-09-19 14:06:31.879: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-19 14:06:31.879: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 14:06:31.879: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-19 14:06:31.879: [INFO] OnDoneLoading sync enabled: 0
+2026-09-19 14:06:31.879: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-19 14:06:31.879: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-19 14:06:31.879: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 14:09:13.345: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:33:13.529: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:33:13.529: [INFO] Profiles total count: 1
+2026-09-20 10:33:13.530: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:33:13.530: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:33:13.530: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:33:13.530: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 10:33:13.530: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 10:33:13.530: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 10:33:13.530: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:33:36.311: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:34:05.746: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:34:05.746: [INFO] Profiles total count: 1
+2026-09-20 10:34:05.746: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:34:05.746: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:34:05.746: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:34:05.746: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 10:34:05.746: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 10:34:05.746: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 10:34:05.746: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:34:11.304: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:34:21.391: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:34:21.391: [INFO] Profiles total count: 1
+2026-09-20 10:34:21.391: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:34:21.391: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:34:21.391: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:34:21.391: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 10:34:21.391: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 10:34:21.391: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 10:34:21.391: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:34:33.545: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:34:46.343: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:34:46.343: [INFO] Profiles total count: 1
+2026-09-20 10:34:46.343: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:34:46.343: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:34:46.343: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:34:46.343: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 10:34:46.343: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 10:34:46.343: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 10:34:46.343: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:35:20.573: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:35:24.415: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:35:24.415: [INFO] Profiles total count: 1
+2026-09-20 10:35:24.415: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:35:24.415: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:35:24.415: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:35:24.415: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 10:35:24.415: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 10:35:24.415: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 10:35:24.415: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:35:28.019: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:35:40.522: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:35:40.522: [INFO] Profiles total count: 1
+2026-09-20 10:35:40.522: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:35:40.522: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:35:40.522: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:35:40.522: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 10:35:40.522: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 10:35:40.522: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 10:35:40.522: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:35:47.080: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:38:07.419: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:38:07.419: [INFO] Profiles total count: 1
+2026-09-20 10:38:07.419: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:38:07.419: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:38:07.419: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:38:07.419: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 10:38:07.419: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 10:38:07.419: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 10:38:07.419: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:38:11.738: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 10:39:27.973: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:39:27.973: [INFO] Profiles total count: 1
+2026-09-20 10:39:27.973: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:39:27.973: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 10:39:27.973: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 10:39:27.973: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 10:39:27.973: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 10:39:27.973: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 10:39:27.974: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:17:13.013: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:18:48.329: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:18:48.329: [INFO] Profiles total count: 1
+2026-09-20 11:18:48.329: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:18:48.329: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:18:48.329: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:18:48.329: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 11:18:48.329: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 11:18:48.329: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 11:18:48.329: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:37:04.661: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:37:51.925: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:37:51.926: [INFO] Profiles total count: 1
+2026-09-20 11:37:51.926: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:37:51.926: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:37:51.926: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:37:51.926: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 11:37:51.926: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 11:37:51.926: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 11:37:51.926: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:42:54.849: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:43:04.633: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:43:04.633: [INFO] Profiles total count: 1
+2026-09-20 11:43:04.633: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:43:04.633: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:43:04.633: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:43:04.633: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 11:43:04.633: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 11:43:04.633: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 11:43:04.633: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:45:00.535: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:45:32.025: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:45:32.025: [INFO] Profiles total count: 1
+2026-09-20 11:45:32.025: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:45:32.025: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:45:32.025: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:45:32.025: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 11:45:32.025: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 11:45:32.025: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 11:45:32.025: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:45:38.933: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:45:50.550: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:45:50.550: [INFO] Profiles total count: 1
+2026-09-20 11:45:50.550: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:45:50.550: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:45:50.550: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:45:50.550: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 11:45:50.550: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 11:45:50.550: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 11:45:50.550: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:47:17.485: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 11:48:24.213: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:48:24.213: [INFO] Profiles total count: 1
+2026-09-20 11:48:24.213: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:48:24.213: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 11:48:24.213: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 11:48:24.213: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 11:48:24.213: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 11:48:24.213: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 11:48:24.213: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:08:40.850: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:09:48.932: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:09:48.932: [INFO] Profiles total count: 1
+2026-09-20 12:09:48.932: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:09:48.932: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:09:48.932: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:09:48.932: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 12:09:48.932: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 12:09:48.932: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 12:09:48.932: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:09:49.074: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:10:40.332: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:10:40.332: [INFO] Profiles total count: 1
+2026-09-20 12:10:40.332: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:10:40.332: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:10:40.332: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:10:40.332: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 12:10:40.332: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 12:10:40.332: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 12:10:40.332: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:10:47.924: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:11:40.082: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:11:40.082: [INFO] Profiles total count: 1
+2026-09-20 12:11:40.082: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:11:40.082: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:11:40.082: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:11:40.082: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 12:11:40.082: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 12:11:40.082: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 12:11:40.083: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:11:47.627: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:11:54.527: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:11:54.527: [INFO] Profiles total count: 1
+2026-09-20 12:11:54.527: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:11:54.527: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:11:54.527: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:11:54.527: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 12:11:54.527: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 12:11:54.527: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 12:11:54.527: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:11:59.998: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:12:31.121: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:12:31.122: [INFO] Profiles total count: 1
+2026-09-20 12:12:31.122: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:12:31.122: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:12:31.122: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:12:31.122: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 12:12:31.122: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 12:12:31.122: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 12:12:31.122: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:13:11.224: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:13:44.749: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:13:44.749: [INFO] Profiles total count: 1
+2026-09-20 12:13:44.749: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:13:44.749: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:13:44.749: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:13:44.749: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 12:13:44.749: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 12:13:44.749: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 12:13:44.749: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:14:14.879: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:17:55.807: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:17:55.807: [INFO] Profiles total count: 1
+2026-09-20 12:17:55.807: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:17:55.807: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:17:55.807: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:17:55.807: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 12:17:55.807: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 12:17:55.807: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 12:17:55.807: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:17:55.953: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:19:42.153: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:19:42.153: [INFO] Profiles total count: 1
+2026-09-20 12:19:42.153: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:19:42.153: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:19:42.153: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:19:42.153: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 12:19:42.153: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 12:19:42.153: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 12:19:42.153: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:23:07.262: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:52:05.969: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:52:05.969: [INFO] Profiles total count: 1
+2026-09-20 12:52:05.969: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:52:05.969: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 12:52:05.969: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 12:52:05.969: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 12:52:05.969: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 12:52:05.969: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 12:52:05.969: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 12:54:04.685: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 13:00:49.694: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 13:00:49.694: [INFO] Profiles total count: 1
+2026-09-20 13:00:49.694: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 13:00:49.694: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 13:00:49.694: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 13:00:49.694: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 13:00:49.694: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 13:00:49.694: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 13:00:49.694: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 13:01:06.216: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 13:04:12.890: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 13:04:12.890: [INFO] Profiles total count: 1
+2026-09-20 13:04:12.891: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 13:04:12.891: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 13:04:12.891: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 13:04:12.891: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 13:04:12.891: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 13:04:12.891: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 13:04:12.891: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 13:04:35.413: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 13:15:37.320: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 13:15:37.320: [INFO] Profiles total count: 1
+2026-09-20 13:15:37.320: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 13:15:37.320: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 13:15:37.320: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T15:21:21.639Z
+2026-09-20 13:15:37.321: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 13:15:37.321: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 13:15:37.321: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 13:15:37.321: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:24:10.904: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:25:12.141: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:25:12.141: [INFO] Profiles total count: 1
+2026-09-20 14:25:12.141: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:25:12.141: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:25:12.141: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:25:12.141: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 14:25:12.141: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 14:25:12.141: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 14:25:12.141: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:25:18.541: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:25:37.697: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:25:37.697: [INFO] Profiles total count: 1
+2026-09-20 14:25:37.697: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:25:37.697: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:25:37.697: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:25:37.697: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 14:25:37.697: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 14:25:37.697: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 14:25:37.697: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:25:45.347: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:26:23.290: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:26:23.290: [INFO] Profiles total count: 1
+2026-09-20 14:26:23.290: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:26:23.290: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:26:23.290: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:26:23.290: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 14:26:23.290: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 14:26:23.290: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 14:26:23.290: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:27:24.823: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:27:27.010: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:27:27.010: [INFO] Profiles total count: 1
+2026-09-20 14:27:27.010: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:27:27.010: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:27:27.010: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:27:27.010: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 14:27:27.010: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 14:27:27.010: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 14:27:27.010: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:27:30.399: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:30:14.337: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:30:14.337: [INFO] Profiles total count: 1
+2026-09-20 14:30:14.337: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:30:14.337: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:30:14.337: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:30:14.337: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 14:30:14.337: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 14:30:14.337: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 14:30:14.337: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:46:03.237: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:49:36.181: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:49:36.181: [INFO] Profiles total count: 1
+2026-09-20 14:49:36.181: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:49:36.181: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:49:36.181: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:49:36.181: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 14:49:36.181: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 14:49:36.181: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 14:49:36.181: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:53:33.761: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 14:53:33.832: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:53:33.832: [INFO] Profiles total count: 1
+2026-09-20 14:53:33.832: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:53:33.832: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 14:53:33.832: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 14:53:33.832: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 14:53:33.832: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 14:53:33.832: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 14:53:33.832: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 15:11:30.787: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 17:09:10.619: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 17:09:10.619: [INFO] Profiles total count: 1
+2026-09-20 17:09:10.619: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 17:09:10.619: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-20 17:09:10.619: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-20 17:09:10.619: [INFO] OnDoneLoading sync enabled: 0
+2026-09-20 17:09:10.619: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-20 17:09:10.619: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-20 17:09:10.619: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-20 17:22:37.237: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 12:17:38.379: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 12:17:38.379: [INFO] Profiles total count: 1
+2026-09-21 12:17:38.379: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-21 12:17:38.379: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 12:17:38.379: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-21 12:17:38.379: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 12:17:38.379: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 12:17:38.379: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 12:17:38.379: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 13:59:18.429: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 14:00:44.209: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 14:00:44.209: [INFO] Profiles total count: 1
+2026-09-21 14:00:44.210: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-21 14:00:44.210: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 14:00:44.210: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-21 14:00:44.210: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 14:00:44.210: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 14:00:44.210: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 14:00:44.210: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 15:48:20.364: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:24:56.911: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:24:56.911: [INFO] Profiles total count: 1
+2026-09-22 05:24:56.911: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:24:56.911: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:24:56.911: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:24:56.911: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 05:24:56.911: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 05:24:56.911: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 05:24:56.911: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:26:21.210: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:26:44.876: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:26:44.876: [INFO] Profiles total count: 1
+2026-09-22 05:26:44.876: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:26:44.876: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:26:44.876: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:26:44.876: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 05:26:44.876: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 05:26:44.876: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 05:26:44.876: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:27:08.727: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:27:18.973: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:27:18.973: [INFO] Profiles total count: 1
+2026-09-22 05:27:18.973: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:27:18.973: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:27:18.973: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:27:18.973: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 05:27:18.973: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 05:27:18.973: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 05:27:18.973: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:27:30.761: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:32:49.229: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:32:49.229: [INFO] Profiles total count: 1
+2026-09-22 05:32:49.229: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:32:49.229: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:32:49.230: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:32:49.230: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 05:32:49.230: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 05:32:49.230: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 05:32:49.230: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:33:21.076: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:37:17.872: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:37:17.872: [INFO] Profiles total count: 1
+2026-09-22 05:37:17.872: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:37:17.872: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:37:17.872: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:37:17.872: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 05:37:17.872: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 05:37:17.872: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 05:37:17.872: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:39:01.642: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:39:07.224: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:39:07.224: [INFO] Profiles total count: 1
+2026-09-22 05:39:07.224: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:39:07.224: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:39:07.224: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:39:07.224: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 05:39:07.224: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 05:39:07.224: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 05:39:07.224: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:39:15.594: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 05:39:25.779: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:39:25.779: [INFO] Profiles total count: 1
+2026-09-22 05:39:25.779: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:39:25.779: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 05:39:25.779: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 05:39:25.779: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 05:39:25.779: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 05:39:25.779: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 05:39:25.779: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 08:54:02.317: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 08:54:02.317: [INFO] Profiles total count: 1
+2026-09-22 08:54:02.317: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 08:54:02.317: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 08:54:02.318: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 08:54:02.318: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 08:54:02.318: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 08:54:02.318: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 08:54:02.318: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:00:03.434: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:00:06.061: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:00:06.061: [INFO] Profiles total count: 1
+2026-09-22 09:00:06.062: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:00:06.062: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:00:06.062: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:00:06.062: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 09:00:06.062: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 09:00:06.062: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 09:00:06.062: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:00:15.830: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:02:38.936: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:02:38.936: [INFO] Profiles total count: 1
+2026-09-22 09:02:38.937: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:02:38.937: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:02:38.937: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:02:38.937: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 09:02:38.937: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 09:02:38.937: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 09:02:38.937: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:02:43.370: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:03:30.803: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:03:30.803: [INFO] Profiles total count: 1
+2026-09-22 09:03:30.803: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:03:30.803: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:03:30.803: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:03:30.803: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 09:03:30.803: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 09:03:30.803: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 09:03:30.803: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:03:52.260: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:04:03.002: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:04:03.002: [INFO] Profiles total count: 1
+2026-09-22 09:04:03.002: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:04:03.002: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:04:03.003: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:04:03.003: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 09:04:03.003: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 09:04:03.003: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 09:04:03.003: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:04:36.302: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:06:33.741: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:06:33.741: [INFO] Profiles total count: 1
+2026-09-22 09:06:33.741: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:06:33.741: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:06:33.741: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:06:33.741: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 09:06:33.741: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 09:06:33.741: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 09:06:33.741: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:06:55.305: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:06:57.962: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:06:57.962: [INFO] Profiles total count: 1
+2026-09-22 09:06:57.962: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:06:57.962: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:06:57.962: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:06:57.963: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 09:06:57.963: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 09:06:57.963: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 09:06:57.963: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:21:41.825: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:29:12.868: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:29:12.868: [INFO] Profiles total count: 1
+2026-09-22 09:29:12.868: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:29:12.868: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:29:12.868: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:29:12.868: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 09:29:12.868: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 09:29:12.868: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 09:29:12.868: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:29:13.075: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 09:35:07.862: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:35:07.862: [INFO] Profiles total count: 1
+2026-09-22 09:35:07.863: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:35:07.863: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 09:35:07.863: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-20T13:52:44.211Z
+2026-09-22 09:35:07.863: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 09:35:07.863: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 09:35:07.863: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 09:35:07.863: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:21:36.364: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-22 12:25:55.840: [INFO] CurrentProfilePath: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:25:55.840: [INFO] Profiles total count: 1
+2026-09-22 12:25:55.841: [INFO] Profile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-22T10:30:49.685Z
+2026-09-22 12:25:55.841: [INFO] LastUsedProfileDir: P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-22 12:25:55.841: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=P:\Qspider\Spring_Project\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-22T10:30:49.685Z
+2026-09-22 12:25:55.841: [INFO] OnDoneLoading sync enabled: 0
+2026-09-22 12:25:55.841: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-22 12:25:55.841: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-22 12:25:55.841: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

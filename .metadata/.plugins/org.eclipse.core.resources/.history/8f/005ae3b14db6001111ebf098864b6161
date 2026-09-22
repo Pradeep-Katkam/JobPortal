@@ -1,0 +1,101 @@
+package com.alpha.JobPortal.service;
+
+import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.stereotype.Service;
+
+import com.alpha.JobPortal.Repository.CompanyRepository;
+import com.alpha.JobPortal.dto.CompanyRegisterDto;
+import com.alpha.JobPortal.dto.CreateNewJobDto;
+import com.alpha.JobPortal.dto.ResponceStruture;
+import com.alpha.JobPortal.entity.Candidate;
+import com.alpha.JobPortal.entity.Company;
+import com.alpha.JobPortal.entity.Job;
+import com.alpha.JobPortal.entity.Skill;
+import com.alpha.JobPortal.exception.CommonException;
+
+@Service
+public class CompanyService {
+
+	
+	@Autowired
+	private CompanyRepository companyRepository;
+	
+	public ResponceStruture<Company> CompanyRegister(CompanyRegisterDto compDto) {
+		if(companyRepository.findByPhone(compDto.getPhone()).isPresent()) {
+			throw new CommonException(HttpStatus.BAD_REQUEST.value(), "Comapany Already Exist");
+		}
+		Company c = new Company();	
+		c.setName(compDto.getName());
+		c.setEmail(compDto.getMail());
+		c.setPhone(compDto.getPhone());
+		c.setAddress(compDto.getAddress());
+		c.setType(compDto.getCompType());
+		c.setNoOfEmployee(compDto.getNoEmp());
+		
+		companyRepository.save(c);
+		
+		ResponceStruture<Company> respStru = new ResponceStruture<Company>();
+		respStru.setStatuCode(HttpStatus.ACCEPTED.value());
+		respStru.setMessage("Company Successfully Registered");
+		respStru.setData(c);
+		
+		return respStru;
+
+	}
+
+	public ResponceStruture<String> CompanyDelete(int id) {
+		if(!(companyRepository.findById(id).isPresent())) {
+			throw new CommonException(HttpStatus.BAD_REQUEST.value(), "Company Not Exist With Id");
+		}
+		
+		companyRepository.deleteById(id);
+		ResponceStruture<String> rs= new ResponceStruture<String>();
+		rs.setStatuCode(HttpStatus.OK.value());
+		rs.setMessage("Comapany Delete Successfully");
+		rs.setData("Comapany delete SucccessFully");
+		return rs;
+		}
+		
+		@Autowired
+		
+	public ResponceStruture<Optional<Company>> FindCompany(int id) {
+		if(!(companyRepository.findById(id).isPresent())) {
+			throw new CommonException(HttpStatus.BAD_REQUEST.value(), "Company Not Exist With Id");
+		}
+		Optional<Company> company=companyRepository.findById(id);
+		ResponceStruture<Optional<Company>> rs= new ResponceStruture<Optional<Company>>();
+		rs.setStatuCode(HttpStatus.FOUND.value());
+		rs.setMessage("Comapany Foound");
+		rs.setData(company);
+		return rs;
+	}
+
+	public void createNewJob(CreateNewJobDto createjobDto) {
+		Job job = new Job();
+		job.setId(createjobDto.getComid());
+		job.setRole(createjobDto.getRole());
+		
+	    List<Skill> skills = createjobDto.getSkill();
+	    if (skills != null) {
+	        job.setReqSkills(skills);
+	    }
+	    
+	    LocalDate today = LocalDate.now();
+	    job.setPostDate(today.toString());
+	    
+	    job.setJobDesc(createjobDto.getJobDesc());
+	    job.setNoOfPosition(createjobDto.getNoOfPostion());
+	    job.setSalary(createjobDto.getSalary());
+	    job.setBond(createjobDto.getBond());
+	    job.setReqExperince(createjobDto.getExperience());
+	    job.setLastDate(createjobDto.getLastdatetoApply());
+	    job.setReqQualifcation(createjobDto.getRedQualifcation());
+		c
+	}
+}

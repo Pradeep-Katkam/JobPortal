@@ -1,0 +1,6 @@
+package com.alpha.JobPortal.dto;
+
+public class CreateNewJobDto {
+	private String comid;
+	private String 
+}

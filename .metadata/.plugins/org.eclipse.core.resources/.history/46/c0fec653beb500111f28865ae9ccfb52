@@ -1,0 +1,38 @@
+package com.alpha.JobPortal.entity;
+
+import java.util.List;
+
+import jakarta.persistence.CascadeType;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
+import jakarta.persistence.OneToMany;
+
+@Entity
+public class Job {
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private int id;
+	private String role;
+	@OneToMany(cascade = CascadeType.ALL)
+	private Skill reqSkills;
+	private String jobDesc;
+	private int noOfPosition;
+	private int salary;
+	private int bond;
+	@ManyToOne(cascade = CascadeType.ALL)
+	private Company company;
+	private int 	reqExperince;
+	private String postDate;
+	private String lastDate;
+	private String reqQualifcation;
+	@OneToMany(cascade = CascadeType.ALL)
+	private List<Application> application;
+	public Job() {
+		super();
+	}
+	
+	
+}

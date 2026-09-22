@@ -1,0 +1,30 @@
+package com.alpha.JobPortal.exception;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.RestControllerAdvice;
+
+import com.alpha.JobPortal.dto.ResponceStruture;
+
+@RestControllerAdvice
+public class GlobalExceptionHandler {
+	@ExceptionHandler(CandidateAlreadyExistsException.class)
+	public ResponceStruture<String> handleCandidateRegitrationFailed() {
+		ResponceStruture<String> respStr = new ResponceStruture<String>();
+		respStr.setStatuCode(HttpStatus.NOT_ACCEPTABLE.value());
+		respStr.setMessage("Candidate Already Exists Exception");
+		respStr.setData("Candidate Already Exists Exception");
+		
+		return respStr;
+	}
+	
+	@ExceptionHandler(CandidateNExistsException.class)
+	public ResponceStruture<String> handleCandidateRegitrationFailed() {
+		ResponceStruture<String> respStr = new ResponceStruture<String>();
+		respStr.setStatuCode(HttpStatus.NOT_ACCEPTABLE.value());
+		respStr.setMessage("Candidate Already Exists Exception");
+		respStr.setData("Candidate Already Exists Exception");
+		
+		return respStr;
+	}
+}

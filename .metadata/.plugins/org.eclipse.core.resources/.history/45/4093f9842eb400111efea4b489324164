@@ -1,0 +1,14 @@
+package com.alpha.JobPortal.dto;
+
+public class CompanyRegisterDto {
+	private String name;
+	private String mail;
+	private long phone;
+	private String address;
+	private String compType;
+	private int noEmp;
+	public CompanyRegisterDto() {
+		super();
+	}
+	
+}

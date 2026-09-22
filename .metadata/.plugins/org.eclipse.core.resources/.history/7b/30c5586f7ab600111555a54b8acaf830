@@ -1,0 +1,5 @@
+package com.alpha.JobPortal.exception;
+
+public class CompanyNotExistsException extends {
+
+}

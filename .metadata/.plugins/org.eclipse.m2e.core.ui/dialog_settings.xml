@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="P:\Qspider\Advance_java\springschool"/>
 			<item value="P:\Qspider\Spring_Project\JobPortal"/>
 		</list>
 		<list key="projectNameTemplate">

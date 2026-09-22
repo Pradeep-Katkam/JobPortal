@@ -1,0 +1,63 @@
+package com.alpha.springschool.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.stereotype.Service;
+
+import com.alpha.JobPortal.dto.ResponceStruture;
+import com.alpha.JobPortal.entity.Candidate;
+import com.alpha.springschool.dto.EmployRegDto;
+import com.alpha.springschool.dto.StudentDto;
+import com.alpha.springschool.dto.StudentStruture;
+import com.alpha.springschool.entity.Student;
+import com.alpha.springschool.exception.StudentNotFoundException;
+import com.alpha.springschool.repository.StudentRepository;
+
+
+
+@Service
+public class StudentService {
+	@Autowired
+	private StudentRepository studentrepo;
+	
+	
+	public void studentService(Student s) {
+		System.out.println(s);
+		studentrepo.save(s);
+	}
+	
+	public StudentStruture<Student> findStudent(int id) {
+
+		Student stures = studentrepo.findById(id).ResponceStruture<Candidate> respStru = new ResponceStruture<Candidate>();
+		respStru.setStatuCode(HttpStatus.ACCEPTED.value());
+		respStru.setMessage("Candidate Successfully Registered");
+		respStru.setData(c);
+		
+		return respStru;(()->new StudentNotFoundException());
+		StudentStruture<Student> st = new StudentStruture<Student>();
+
+			st.setStatuCode(HttpStatus.FOUND.value());
+			st.setMessage("Student Found");
+			st.setData(stures);
+
+		return st;
+	}
+
+	public  void studentService(StudentDto sdto) {
+		Student stu = new Student();
+		stu.setId(sdto.getId());
+		stu.setName(sdto.getName());
+		stu.setAge(sdto.getAge());
+		stu.setMarks(sdto.getMarks());
+		stu.setGender(sdto.getGender());
+		studentrepo.save(stu);
+		
+
+		
+		//return stustr;
+	}
+
+	
+}

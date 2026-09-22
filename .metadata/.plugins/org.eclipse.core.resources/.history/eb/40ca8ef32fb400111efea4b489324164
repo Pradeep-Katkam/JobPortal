@@ -1,0 +1,6 @@
+package com.alpha.JobPortal.dto;
+
+public class ResponseStructure<T> {
+	private String statusCode;
+	private String message
+}

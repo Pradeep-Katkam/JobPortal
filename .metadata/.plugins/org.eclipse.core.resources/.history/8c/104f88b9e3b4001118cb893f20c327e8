@@ -1,0 +1,6 @@
+package com.alpha.JobPortal.exception;
+
+public class CandidateRegistrationFailed extends Runtime{
+	public CandidateRegistrationFailed() {
+	}
+}

@@ -1,0 +1,32 @@
+package com.alpha.JobPortal.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.alpha.JobPortal.dto.CompanyRegisterDto;
+import com.alpha.JobPortal.dto.ResponceStruture;
+import com.alpha.JobPortal.entity.Company;
+import com.alpha.JobPortal.service.CompanyService;
+
+@RestController
+public class CompanyController {
+	@Autowired
+	private CompanyService compServ;
+	
+	@PostMapping("/company/register")
+	public ResponceStruture<Company> CompanyRegister(@RequestBody CompanyRegisterDto compDto) {
+		return compServ.CompanyRegister(compDto);
+	}
+	
+	@DeleteMapping("/company/delete/{id}")
+	public ResponceStruture<String> CompanyDelete(@PathVariable int id) {
+		return compServ.CompanyDelete(id);
+	}
+	
+	@GetMapping("/company")
+}

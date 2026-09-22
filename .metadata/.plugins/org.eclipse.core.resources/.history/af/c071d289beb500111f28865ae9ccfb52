@@ -1,0 +1,5 @@
+package com.alpha.JobPortal.dto;
+
+public class CreateNewJobDto {
+	String 
+}

@@ -1,0 +1,39 @@
+package com.alpha.JobPortal.dto;
+
+import org.springframework.http.HttpStatus;
+
+public class ResStruture<T> {
+	private int statuCode;
+	private String message;
+	private T data;
+	public Res() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	public StudentStruture(int statuCode, String message, T data) {
+		super();
+		this.statuCode = statuCode;
+		this.message = message;
+		this.data = data;
+	}
+	public int getStatuCode() {
+		return statuCode;
+	}
+	public void setStatuCode(int statuCode) {
+		this.statuCode = statuCode;
+	}
+	public String getMessage() {
+		return message;
+	}
+	public void setMessage(String message) {
+		this.message = message;
+	}
+	public T getData() {
+		return data;
+	}
+	public void setData(T data) {
+		this.data = data;
+	} 
+	
+	
+}

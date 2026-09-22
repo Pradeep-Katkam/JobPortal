@@ -7,44 +7,58 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
 import jakarta.persistence.OneToMany;
 
 @Entity
 public class Job {
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int id;
 	private String role;
-	private String reqSkills;
+	@OneToMany(cascade = CascadeType.ALL)
+	private List<Skill> reqSkills;
 	private String jobDesc;
 	private int noOfPosition;
 	private int salary;
 	private int bond;
-	private String location;
+	@ManyToOne(cascade = CascadeType.ALL)
+	private Company company;
 	private int 	reqExperince;
 	private String postDate;
 	private String lastDate;
 	private String reqQualifcation;
 	@OneToMany(cascade = CascadeType.ALL)
 	private List<Application> application;
+	private String status;
 	public Job() {
 		super();
 	}
-	public Job(String role, String reqSkills, String jobDesc, int noOfPosition, int salary, int bond, String location,
-			int reqExperince, String postDate, String lastDate, String reqQualifcation, List<Application> application) {
+	
+	public Job(int id, String role, List<Skill> reqSkills, String jobDesc, int noOfPosition, int salary, int bond,
+			Company company, int reqExperince, String postDate, String lastDate, String reqQualifcation,
+			List<Application> application, String status) {
 		super();
+		this.id = id;
 		this.role = role;
 		this.reqSkills = reqSkills;
 		this.jobDesc = jobDesc;
 		this.noOfPosition = noOfPosition;
 		this.salary = salary;
 		this.bond = bond;
-		this.location = location;
+		this.company = company;
 		this.reqExperince = reqExperince;
 		this.postDate = postDate;
 		this.lastDate = lastDate;
 		this.reqQualifcation = reqQualifcation;
 		this.application = application;
+		this.status = status;
+	}
+
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
 	}
 	public String getRole() {
 		return role;
@@ -52,10 +66,10 @@ public class Job {
 	public void setRole(String role) {
 		this.role = role;
 	}
-	public String getReqSkills() {
+	public List<Skill> getReqSkills() {
 		return reqSkills;
 	}
-	public void setReqSkills(String reqSkills) {
+	public void setReqSkills(List<Skill> reqSkills) {
 		this.reqSkills = reqSkills;
 	}
 	public String getJobDesc() {
@@ -82,11 +96,11 @@ public class Job {
 	public void setBond(int bond) {
 		this.bond = bond;
 	}
-	public String getLocation() {
-		return location;
+	public Company getCompany() {
+		return company;
 	}
-	public void setLocation(String location) {
-		this.location = location;
+	public void setCompany(Company company) {
+		this.company = company;
 	}
 	public int getReqExperince() {
 		return reqExperince;
@@ -118,7 +132,14 @@ public class Job {
 	public void setApplication(List<Application> application) {
 		this.application = application;
 	}
-	
+
+	public String getStatus() {
+		return status;
+	}
+
+	public void setStatus(String status) {
+		this.status = status;
+	}
 	
 	
 }

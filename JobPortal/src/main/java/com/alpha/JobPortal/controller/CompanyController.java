@@ -8,11 +8,14 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.alpha.JobPortal.dto.CompanyRegisterDto;
+import com.alpha.JobPortal.dto.CreateNewJobDto;
 import com.alpha.JobPortal.dto.ResponceStruture;
 import com.alpha.JobPortal.entity.Company;
+import com.alpha.JobPortal.entity.Job;
 import com.alpha.JobPortal.service.CompanyService;
 
 @RestController
@@ -33,5 +36,20 @@ public class CompanyController {
 	@GetMapping("/company/find/{id}")
 	public ResponceStruture<Optional<Company>> FindCompany(@PathVariable int id) {
 		return compServ.FindCompany(id);
+	}
+	
+	@PostMapping("/company/createNewJob")
+	public ResponceStruture<Job> createNewJob(@RequestBody CreateNewJobDto createjobDto) {
+		return compServ.createNewJob(createjobDto);
+	}
+	
+	@PostMapping("/company/job/repost")
+	public ResponceStruture<Job> repostingjob(@RequestParam int comid, @RequestParam int jobid, @RequestParam String joblastdate) {
+		return compServ.repostjob(comid,jobid,joblastdate);
+	}
+	
+	@PostMapping("/company/job/inactive")
+	public ResponceStruture<String> inactivejob(@RequestParam int compid, @RequestParam int jobid) {
+		return compServ.inactiveTheJob(compid,jobid);
 	}
 }

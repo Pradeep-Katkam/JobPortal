@@ -1,0 +1,13 @@
+package com.alpha.JobPortal.dto;
+
+import org.springframework.http.HttpStatus;
+
+public class ResponceStruture<T> {
+	private int statuCode;
+	private String message;
+	private T data;
+	public ResponceStruture() {
+		super();
+	}
+	
+}
