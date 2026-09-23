@@ -21,6 +21,7 @@ import com.alpha.JobPortal.entity.Job;
 import com.alpha.JobPortal.entity.Skill;
 import com.alpha.JobPortal.exception.CommonException;
 import com.alpha.JobPortal.exception.CompanyNotExistsException;
+import com.alpha.JobPortal.exception.JobNotFoundException;
 
 @Service
 public class CompanyService {
@@ -82,12 +83,10 @@ public class CompanyService {
 		private SkillsRepository skillRepository;
 		
 	public ResponceStruture<Job> createNewJob(CreateNewJobDto createjobDto) {
-		if(companyRepository.findByPhone(createjobDto.getComid()).isPresent()) {
-			throw new CommonException(HttpStatus.BAD_REQUEST.value(), "Comapany Already Exist");
-		}
-//		Optional<Company> company = companyRepository.findById(createjobDto.getComid()).; 
+		Company comp = companyRepository.findById(createjobDto.getCompIdTosetcom()).orElseThrow(()-> new CompanyNotExistsException());
 		Job job = new Job();
-		job.setId(createjobDto.getComid());
+		job.setCompany(comp);
+		job.setComIdToSetCompany(createjobDto.getCompIdTosetcom());
 		job.setRole(createjobDto.getRole());		
 		List<Skill> listSkills=new ArrayList<Skill>();
 		if(createjobDto.getSkill() != null) {
@@ -113,20 +112,24 @@ public class CompanyService {
 		
 		ResponceStruture<Job> rs= new ResponceStruture<Job>();
 		rs.setStatuCode(HttpStatus.FOUND.value());
-		rs.setMessage("Comapany Foound");
+		rs.setMessage("Comapany Found With Id And Saved The JOb");
 		rs.setData(job);
 		return rs;
 	}
 	
 	public ResponceStruture<String> inactiveTheJob(int compid, int jobid) {
 		Company company = companyRepository.findById(compid).orElseThrow(()-> new CompanyNotExistsException());
-		Job job = jobRepository.findById(jobid).orElseThrow(()-> new CommonException(HttpStatus.NOT_FOUND.value(), "Job not Found Exception"));
-		job.setStatus("inActive");
-		
-		
-		jobRepository.save(job);
+		Job job = jobRepository.findById(jobid).orElseThrow(()-> new JobNotFoundException());
+		if(company.getId() == job.getCompany().getId() ) {
+			job.setStatus("inActive");
+			jobRepository.save(job);
+			ResponceStruture<String> rs= new ResponceStruture<String>();
+			rs.setStatuCode(HttpStatus.FOUND.value());
+			rs.setMessage("Company Inactivated");
+			rs.setData("Company Inactivated");
+			return rs;
+		}
 		ResponceStruture<String> rs= new ResponceStruture<String>();
-		
 		rs.setStatuCode(HttpStatus.FOUND.value());
 		rs.setMessage("Company Inactivated");
 		rs.setData("Company Inactivated");
@@ -135,23 +138,39 @@ public class CompanyService {
 
 	public ResponceStruture<Job> repostjob(int comid, int jobid, String joblastdate) {
 		Company company = companyRepository.findById(comid).orElseThrow(()-> new CompanyNotExistsException());
-		Job job = jobRepository.findById(jobid).orElseThrow(()-> new CommonException(HttpStatus.NOT_FOUND.value(), "Job not Found Exception"));
+		Job job = jobRepository.findById(jobid).orElseThrow(()-> new JobNotFoundException());
+		System.out.println(company.getId());
+		System.out.println(job.getCompany().getId());
+		if(company.getId() == job.getCompany().getId()) {
 		
-		if(company.getId() == job.getId()) {
-			Job j = new Job();
-			job.setId(j.getId());
-			job.setStatus("Active");		
-			LocalDate today = LocalDate.now();
-			job.setPostDate(today.toString());		
-			job.setLastDate(joblastdate);
+			System.out.println(company.getId());
+			System.out.println(job.getCompany().getId());
+			job.setRole(job.getRole());		
+			List<Skill> listSkills=new ArrayList<Skill>();
+			if(job.getReqSkills() != null) {
+				for(Skill sk : job.getReqSkills()) {
+					Skill addskill = new Skill();
+					addskill.setSkill(sk.getSkill());
+					listSkills.add(addskill);
+					skillRepository.save(addskill);
+				}
+			}
+		    LocalDate today = LocalDate.now();
+		    job.setPostDate(today.toString());
+		    job.setLastDate(joblastdate);
+		    job.setJobDesc(job.getJobDesc());
+		    job.setSalary(job.getSalary());
+		    job.setBond(job.getBond());
+		    job.setReqSkills(listSkills);
+		    job.setStatus("Active");
 			jobRepository.save(job);
 			
 			ResponceStruture<Job> rs= new ResponceStruture<Job>();
 			rs.setStatuCode(HttpStatus.FOUND.value());
 			rs.setMessage("Comapany Foound");
 			rs.setData(job);
-			return rs;
-		}
+		return rs;
+	}
 		ResponceStruture<Job> rs= new ResponceStruture<Job>();
 		rs.setStatuCode(HttpStatus.NOT_FOUND.value());
 		rs.setMessage("Comapany Not Found");

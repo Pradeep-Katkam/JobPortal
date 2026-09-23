@@ -43,13 +43,13 @@ public class CompanyController {
 		return compServ.createNewJob(createjobDto);
 	}
 	
-	@PostMapping("/company/job/repost")
-	public ResponceStruture<Job> repostingjob(@RequestParam int comid, @RequestParam int jobid, @RequestParam String joblastdate) {
-		return compServ.repostjob(comid,jobid,joblastdate);
-	}
-	
 	@PostMapping("/company/job/inactive")
 	public ResponceStruture<String> inactivejob(@RequestParam int compid, @RequestParam int jobid) {
 		return compServ.inactiveTheJob(compid,jobid);
+	}
+	
+	@PostMapping("/company/job/repost")
+	public ResponceStruture<Job> repostingjob(@RequestParam int comid, @RequestParam int jobid, @RequestParam String joblastdate) {
+		return compServ.repostjob(comid,jobid,joblastdate);
 	}
 }

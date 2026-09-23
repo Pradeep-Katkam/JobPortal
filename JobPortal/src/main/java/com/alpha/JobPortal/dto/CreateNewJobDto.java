@@ -5,7 +5,7 @@ import java.util.List;
 import com.alpha.JobPortal.entity.Skill;
 
 public class CreateNewJobDto {
-	private Integer comid;
+	private int compIdTosetcom;
 	private String role;
 	private List<Skill> skill;
 	private String jobDesc;
@@ -18,11 +18,25 @@ public class CreateNewJobDto {
 	public CreateNewJobDto() {
 		super();
 	}
-	public int getComid() {
-		return comid;
+	public CreateNewJobDto(int compIdTosetcom, String role, List<Skill> skill, String jobDesc, int noOfPostion,
+			int salary, int bond, int experience, String lastdatetoApply, String redQualifcation) {
+		super();
+		this.compIdTosetcom = compIdTosetcom;
+		this.role = role;
+		this.skill = skill;
+		this.jobDesc = jobDesc;
+		this.noOfPostion = noOfPostion;
+		this.salary = salary;
+		this.bond = bond;
+		this.experience = experience;
+		this.lastdatetoApply = lastdatetoApply;
+		this.redQualifcation = redQualifcation;
 	}
-	public void setComid(int comid) {
-		this.comid = comid;
+	public int getCompIdTosetcom() {
+		return compIdTosetcom;
+	}
+	public void setCompIdTosetcom(int compIdTosetcom) {
+		this.compIdTosetcom = compIdTosetcom;
 	}
 	public String getRole() {
 		return role;

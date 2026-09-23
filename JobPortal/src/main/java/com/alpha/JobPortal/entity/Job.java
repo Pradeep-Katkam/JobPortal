@@ -13,6 +13,7 @@ import jakarta.persistence.OneToMany;
 @Entity
 public class Job {
 	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int id;
 	private String role;
 	@OneToMany(cascade = CascadeType.ALL)
@@ -30,13 +31,13 @@ public class Job {
 	@OneToMany(cascade = CascadeType.ALL)
 	private List<Application> application;
 	private String status;
+	private int comIdToSetCompany;
 	public Job() {
 		super();
 	}
-	
 	public Job(int id, String role, List<Skill> reqSkills, String jobDesc, int noOfPosition, int salary, int bond,
 			Company company, int reqExperince, String postDate, String lastDate, String reqQualifcation,
-			List<Application> application, String status) {
+			List<Application> application, String status, int comIdToSetCompany) {
 		super();
 		this.id = id;
 		this.role = role;
@@ -52,8 +53,8 @@ public class Job {
 		this.reqQualifcation = reqQualifcation;
 		this.application = application;
 		this.status = status;
+		this.comIdToSetCompany = comIdToSetCompany;
 	}
-
 	public int getId() {
 		return id;
 	}
@@ -132,13 +133,17 @@ public class Job {
 	public void setApplication(List<Application> application) {
 		this.application = application;
 	}
-
 	public String getStatus() {
 		return status;
 	}
-
 	public void setStatus(String status) {
 		this.status = status;
+	}
+	public int getComIdToSetCompany() {
+		return comIdToSetCompany;
+	}
+	public void setComIdToSetCompany(int comIdToSetCompany) {
+		this.comIdToSetCompany = comIdToSetCompany;
 	}
 	
 	
